@@ -1,4 +1,4 @@
-# 🎵 Online Music Streaming Server
+#  Online Music Streaming Server
 
 TCP socket-based music streaming with SSL/TLS, network simulation, adaptive rate control, and QoS metrics.
 
